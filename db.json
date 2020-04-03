@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Swan, black","category":"Green"},
+{"id":2,"name":"Gecko (unidentified)","category":"Green"},
+{"id":3,"name":"Black swan","category":"Pink"},
+{"id":4,"name":"Savanna fox","category":"Turquoise"},
+{"id":5,"name":"Rhinoceros, white","category":"Green"},
+{"id":6,"name":"Black-throated cardinal","category":"Pink"},
+{"id":7,"name":"Starling, cape","category":"Red"},
+{"id":8,"name":"Arctic fox","category":"Yellow"},
+{"id":9,"name":"Giant heron","category":"Aquamarine"},
+{"id":10,"name":"Squirrel, nelson ground","category":"Blue"},
+{"id":11,"name":"Goanna lizard","category":"Mauv"},
+{"id":12,"name":"Crow, house","category":"Blue"},
+{"id":13,"name":"Rainbow lory","category":"Mauv"},
+{"id":14,"name":"Eagle, african fish","category":"Puce"},
+{"id":15,"name":"Openbill, asian","category":"Pink"},
+{"id":16,"name":"Radiated tortoise","category":"Aquamarine"},
+{"id":17,"name":"Savannah deer (unidentified)","category":"Aquamarine"},
+{"id":18,"name":"Dragonfly, russian","category":"Mauv"},
+{"id":19,"name":"Numbat","category":"Crimson"},
+{"id":20,"name":"Barbet, crested","category":"Red"}
+]
+}
